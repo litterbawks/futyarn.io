@@ -1,3 +1,5 @@
+/**************** This file is being bipassed. We included my loading page code in the gamecanvas.js file, but you can use this file for reference ******************/
+
 angular.module('app')
     .controller('loading', function() {
 
